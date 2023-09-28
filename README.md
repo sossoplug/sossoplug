@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Martin
 
-![DevOps](martin.gif)
+<p align="center">
+  <img src="martin.gif" alt="Description of GIF">
+</p>
 <h1 align="center">
 <h3 align="center">I'm an Analyst Programmer. If I could, I'm not sure I would reinvent the wheel, at least not alone. However, I can definitely accelerate it in a direction of my choice. Let's collaborate and build something.</h3>
 
