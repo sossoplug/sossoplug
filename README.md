@@ -3,11 +3,11 @@
 ![DevOps](devops.gif)
 ![banner](B.png)
 <h1 align="center">
-<h3 align="center">I'm an Analyst Programmer with a passion for building software applications, and have a keen interest in Data Science and MLOps</h3>
+<h3 align="center">I'm an Analyst Programmer. If I could, I'm not sure I would reinvent the wheel, at least not alone. However, I can definitely accelerate it in a direction of my choice. Let's collaborate and build something.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IsmaInfiniteCloud&label=Profile%20views&color=0e75b6&style=flat" alt="IsmaInfiniteCloud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sossoplug&label=Profile%20views&color=0e75b6&style=flat" alt="sossoplug" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IsmaInfiniteCloud" alt="IsmaInfiniteCloud" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sossoplug" alt="sossoplug" /></a> </p>
 ### Skills and Technologies
 
 📊 Programmer Analyst
